@@ -1,1 +1,26 @@
 /*  your css code here. If applicable */
+#buttons{
+	background-color:purple;
+	height:320px;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+.btn{
+	margin:8px;
+	font-size:20px;
+	height:40px;
+	/* width:100px */
+	background-color:mediumpurple;
+	border:none;
+	border-radius:2px;
+}
+.stop{
+	margin:8px;
+	font-size:20px;
+	height:40px;
+	/* width:100px */
+	background-color:mediumpurple;
+	border:none;
+	border-radius:2px;
+}
